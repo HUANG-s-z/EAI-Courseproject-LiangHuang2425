@@ -3,7 +3,7 @@ This repository contains the final report and all references for the project.
 
 ## Contents
 
-- **Final report (PDF)**
+- **Final report**
 - **References folder** containing all bibliographic materials used in the project
 
 ## Repository Structure
